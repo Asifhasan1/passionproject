@@ -1,27 +1,54 @@
 h1 {
     color:red;
+    font-size: 40px;
 }
 h2 {
-    color: red
+    color: red;
+    font-size: 30px;
 }
 body {
-    background-color: lightgrey;
+    background-color: skyblue;
+    background-image: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 h3 {
     color: red;
+    font-size: 30px;
 }
 h4 {
     color:red;
+    font-size: 30px;
 }
 h5 {
     color:red;
+    font-size: 30px;
 }
 h6 {
     color:red;
+    font-size: 30px;
 }
 h7 {
     color:red;
+    font-size: 30px;
 }
 h8 {
-    color:red
+    color:red;
+    font-size: 30px;
+}
+img {
+    border-radius: 30px;
+}
+ol {
+    color: white;
+}
+p {
+    color: white;
+}
+ul {
+    color: white;
 }
